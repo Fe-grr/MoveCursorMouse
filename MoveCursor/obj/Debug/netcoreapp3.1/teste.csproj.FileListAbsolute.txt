@@ -1,0 +1,14 @@
+C:\Projetos\teste\teste\bin\Debug\netcoreapp3.1\teste.exe
+C:\Projetos\teste\teste\bin\Debug\netcoreapp3.1\teste.deps.json
+C:\Projetos\teste\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.json
+C:\Projetos\teste\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.dev.json
+C:\Projetos\teste\teste\bin\Debug\netcoreapp3.1\teste.dll
+C:\Projetos\teste\teste\bin\Debug\netcoreapp3.1\teste.pdb
+C:\Projetos\teste\teste\obj\Debug\netcoreapp3.1\teste.csproj.AssemblyReference.cache
+C:\Projetos\teste\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfoInputs.cache
+C:\Projetos\teste\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfo.cs
+C:\Projetos\teste\teste\obj\Debug\netcoreapp3.1\teste.csproj.CoreCompileInputs.cache
+C:\Projetos\teste\teste\obj\Debug\netcoreapp3.1\teste.dll
+C:\Projetos\teste\teste\obj\Debug\netcoreapp3.1\teste.pdb
+C:\Projetos\teste\teste\obj\Debug\netcoreapp3.1\teste.genruntimeconfig.cache
+C:\Projetos\teste\teste\obj\Debug\netcoreapp3.1\teste.GeneratedMSBuildEditorConfig.editorconfig
